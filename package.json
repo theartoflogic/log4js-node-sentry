@@ -1,6 +1,6 @@
 {
     "name": "log4js-node-sentry",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "A Sentry appender for log4js-node",
     "main": "lib/index.js",
     "repository": {
